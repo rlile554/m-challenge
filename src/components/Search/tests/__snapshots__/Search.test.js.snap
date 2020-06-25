@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h1>
+    Search News:
+  </h1>
+  <input
+    onChange={[Function]}
+    value=""
+  />
+  <button
+    type="submit"
+  >
+    Search
+  </button>
+</form>
+`;

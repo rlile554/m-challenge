@@ -1,0 +1,4 @@
+export const REQUEST_ARTICLES = 'REQUEST_ARTICLES';
+export const RECIEVE_ARTICLES = 'RECIEVE_ARTICLES';
+
+export const SET_SEARCH = "SET_SEARCH";
